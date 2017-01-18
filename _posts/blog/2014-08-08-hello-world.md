@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 title: "Hello World"
 modified:
 categories: blog

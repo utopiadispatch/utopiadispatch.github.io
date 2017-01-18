@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Episodes
+excerpt: "An archive of podcast epsisodes sorted by date."
 search_omit: true
 ---
 
