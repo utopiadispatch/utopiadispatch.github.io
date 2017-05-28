@@ -15,4 +15,4 @@ image:
 
 In the first episode of Utopia Dispatch we take a lighthearted tour of Thomas More's "Utopia", the book that coined the term 500 years ago. We see how the ideas hold up today, and how they might set the direction for our search for the perfect world.
 
-We also bring you some good news, with The Best, The Best, and The Bestest.
+We also bring you some good news, with The Good, The Best, and The Bestest.
