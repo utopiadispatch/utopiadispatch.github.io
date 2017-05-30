@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-excerpt: "An archive of articles sorted by date."
+excerpt: "The Utopia Dispatch article archive."
 search_omit: true
 ---
 

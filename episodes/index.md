@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Episodes
-excerpt: "An archive of podcast episodes sorted by date."
+excerpt: "All of the episodes from Utopia Dispatch."
 search_omit: true
 ---
 
