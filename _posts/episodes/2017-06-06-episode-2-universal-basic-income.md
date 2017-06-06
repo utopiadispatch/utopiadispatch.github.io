@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 2 - Cash in Hand"
+title: "Episode 2 - Universal Basic Income"
 excerpt: "Utopia Dispatch explores the idea of a universal basic income."
 categories: episodes
 tags: [universal basic income, poverty, inequality]
@@ -14,7 +14,7 @@ image:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326673021&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 
-In the second episode of Utopia Dispatch we muddle our way through the concept of a [universal basic income](https://en.wikipedia.org/wiki/Basic_income), as a possible means to reduce poverty, inequality, and increase freedom. Is it as utopian as it seems? The team makes an attempt to grasp both the mind-bogglingly far-reaching positive and negative impacts for a society with universal basic income. 
+In the second episode of Utopia Dispatch we look at our first potentially world-changing idea - [universal basic income](https://en.wikipedia.org/wiki/Basic_income). It has been hailed as a possible means to reduce poverty, inequality, and increase freedom, but is it as utopian as it seems? We make an attempt to grasp both the mind-bogglingly far-reaching positive and negative impacts for a society with universal basic income. 
 
 #### Links
 
