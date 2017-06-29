@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 3- Democracy 2.0"
+title: "Episode 3 - Democracy 2.0"
 excerpt: "Utopia Dispatch explores the future of democracy."
 categories: episodes
 tags: [democracy, politics, technology]
