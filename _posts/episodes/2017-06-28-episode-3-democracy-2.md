@@ -6,7 +6,7 @@ categories: episodes
 tags: [democracy, politics, technology]
 comments: true
 share: true
-modified: 2017-28-06T12:00:00-08:00
+modified: 2017-06-28T12:00:00-08:00
 image:
   feature: 
 ---
