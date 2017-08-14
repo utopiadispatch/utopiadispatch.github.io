@@ -6,12 +6,13 @@ categories: episodes
 tags: [democracy, politics, economics]
 comments: true
 share: true
-modified: 2017-14-08T12:00:00-08:00
+modified: 2017-08-14T09:00:00-08:00
 image:
   feature: 
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337837299&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 Utopia Dispatch does its first field dispatch from the front lines of democracy in action at a protest in London. The team also explores a plethora of alternatives to democracy, including canine rule, artificial intelligence, and genetically enhanced decision makers.
 
