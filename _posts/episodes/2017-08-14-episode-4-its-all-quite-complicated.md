@@ -18,6 +18,7 @@ Utopia Dispatch does its first field dispatch from the front lines of democracy 
 #### Links
 
 - [People's Assembly](https://en.wikipedia.org/wiki/People%27s_Assembly_Against_Austerity)
+- [12 Futuristic Forms of Government that Could One Day Rule the World](http://io9.gizmodo.com/12-futuristic-forms-of-government-that-could-one-day-ru-1589833046)
 
 The Good, The Best, and The Bestest
 
