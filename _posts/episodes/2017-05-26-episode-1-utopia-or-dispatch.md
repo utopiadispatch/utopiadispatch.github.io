@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 1 - Utopia or Dispatch"
+title: "[Archive 1] - Utopia or Dispatch"
 excerpt: "The very first episode of Utopia Dispatch."
 categories: episodes
 tags: [utopia dispatch]

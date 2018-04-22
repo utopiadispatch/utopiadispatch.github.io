@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 5 - All About the Money"
+title: "[Archive 5] - All About the Money"
 excerpt: "Utopia Dispatch talks to Positive Money"
 categories: episodes
 tags: [economics, politics]

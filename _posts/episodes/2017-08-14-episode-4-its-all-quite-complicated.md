@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 4 - It's All Quite Complicated"
+title: "[Archive 4] - It's All Quite Complicated"
 excerpt: "We're back after a summer hiatus. Protest, economics, and canine rule. It's all here!"
 categories: episodes
 tags: [democracy, politics, economics]

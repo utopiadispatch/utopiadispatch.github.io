@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 2 - Universal Basic Income"
+title: "[Archive 2] - Universal Basic Income"
 excerpt: "Utopia Dispatch explores the idea of a universal basic income."
 categories: episodes
 tags: [universal basic income, poverty, inequality]
