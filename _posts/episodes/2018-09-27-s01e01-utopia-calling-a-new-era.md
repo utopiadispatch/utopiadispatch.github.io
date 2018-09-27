@@ -1,4 +1,3 @@
-
 ---
 layout: episode
 title: "Utopia Calling Part 1 - A New Era"
