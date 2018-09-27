@@ -33,4 +33,4 @@ Follow us as we embark on a journey to figure out what a better world might look
 - [Video - Hans Rosling at TED - The Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w)
 - [Book - Inventing the Future](https://www.versobooks.com/books/2315-inventing-the-future)
 - [Video - HarvardX - The Pros and Cons of Neoliberalism](https://www.youtube.com/watch?v=t41rFqVpB1I)
-
+- [Book - Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism:_Is_there_no_alternative%3F)
