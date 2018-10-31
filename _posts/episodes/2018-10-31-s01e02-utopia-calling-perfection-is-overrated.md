@@ -18,18 +18,18 @@ In Episode 1, we heard about the need to start putting forward a new vision of t
 Utopia Dispatch is the podcast talking to people with thinking big ideas and taking radical action, to figure out what a better world might look like. Follow us as we embark on our journey into humanity's possible brighter futures.
 
 #### This episode features:
-Darren Webb - University of Sheffield
-Ruth Potts - Red Pepper, Bread, Print & Roses
+- Darren Webb - University of Sheffield
+- Ruth Potts - Red Pepper, Bread, Print & Roses
 
 #### Music:
-George Richardson
-Louis Reader
+- George Richardson
+- Louis Reader
 
 #### Sound effects:
-All effects from [freesound.org](https://freesound.org)
-Beautiful Ambient Melody - PatrickLieberkind
-Farmyard Noises - acclivity
-Tape Calculator - tomlija
+- All effects from [freesound.org](https://freesound.org)
+- Beautiful Ambient Melody - PatrickLieberkind
+- Farmyard Noises - acclivity
+- Tape Calculator - tomlija
 
 #### Links
 
