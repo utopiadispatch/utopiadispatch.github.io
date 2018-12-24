@@ -1,0 +1,53 @@
+---
+layout: page
+title: Episodes
+background: '/img/bg-index.png'
+---
+<p>
+<h3>Series 1 - Utopia Calling</h3>
+<p>In this series, the team explores why we need to rethink the future, what utopianism means in the 21st century and how we can get there.</p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505665102&color=%23129145&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/522885303&color=%23129145&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/549478338&color=%23129145&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe></p>
+</p>
+
+{% for episode in site.episodes %}
+
+  <article class="post-preview">
+    <a href="{{ episode.url | prepend: site.baseurl | replace: '//', '/' }}">
+      <h2 class="post-title">{{ episode.title }}</h2>
+      {% if episode.subtitle %}
+      <h3 class="post-subtitle">{{ episode.subtitle }}</h3>
+      {% else %}
+      <h3 class="post-subtitle">{{ episode.excerpt | strip_html | truncatewords: 15 }}</h3>
+      {% endif %}
+    </a>
+    <!--<p class="post-meta">Posted by
+      {% if episode.author %}
+        {{ episode.author }}
+      {% else %}
+        {{ site.author }}
+      {% endif %}
+      on {{ episode.date | date: '%B %d, %Y' }}</p>-->
+  </article>
+
+  <hr>
+
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+  <div class="clearfix">
+
+    {% if paginator.previous_page %}
+      <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer<span class="d-none d-md-inline"> Episodes</span></a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Episodes</span> &rarr;</a>
+    {% endif %}
+
+  </div>
+
+{% endif %}
