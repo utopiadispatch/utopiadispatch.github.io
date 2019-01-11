@@ -10,14 +10,14 @@
 }
 
 .btn-primary {
-  background-color: $utopia-2;
-  border-color: $utopia-2;
+  background-color: $logo-green-1;
+  border-color: $logo-green-1;
   &:hover,
   &:focus,
   &:active {
     color: $white;
-    background-color: darken($utopia-2, 7.5) !important;
-    border-color: darken($utopia-2, 7.5) !important;
+    background-color: darken($logo-green-2, 7.5) !important;
+    border-color: darken($logo-green-2, 7.5) !important;
   }
 }
 
