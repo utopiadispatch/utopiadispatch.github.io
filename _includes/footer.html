@@ -27,6 +27,16 @@
             </a>
           </li>
           {% endif %}
+          {% if site.spotify_url_suffix %}
+          <li class="list-inline-item"> 
+              <a href="https://open.spotify.com/show/{{ site.spotify_url_suffix }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.twitter_username %}
           <li class="list-inline-item">
             <a href="https://www.twitter.com/{{ site.twitter_username }}">
