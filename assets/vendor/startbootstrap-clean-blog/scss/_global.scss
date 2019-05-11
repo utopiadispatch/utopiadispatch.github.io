@@ -3,7 +3,7 @@ body {
   font-size: 20px;
   color: $gray-900;
   @include serif-font;
-  background-color: $dispatch-1;
+  background-color: $ghost-white;
 }
 
 p {
@@ -31,6 +31,11 @@ a {
   &:hover {
     color: $primary;
   }
+}
+
+.tagline {
+    margin-top: 0px;
+    margin-bottom: 35px;
 }
 
 blockquote {
