@@ -8,7 +8,7 @@ background: '/img/posts/2019-06-30-what-were-reading.jpg'
 
 **[Land for the Many - George Monbiot (editor), Robin Grey, Tom Kenny,
 Laurie Macfarlane, Anna Powell-Smith, Guy Shrubsole, Beth Stratford](https://landforthemany.uk/)** (Report)  
-If it's got the billionaire owned press frothing at the mouth, you know it must be good. We admit we haven't read the whole thing, but this is a seriously important piece of work. As the authors point out, land doesn't get much of an airing in political discussions, but it quite literally underlies countless aspects of our lives. Land for the Many challenges our conceptions of how land should be owned, developed, managed and used to tackle issues ranging from house prices and inequality to farming and biodiversity.
+If it's got the billionaire owned press frothing at the mouth, you know it must be good, and this is a seriously important piece of work. As the authors point out, land doesn't get much of an airing in political discussions, but it quite literally underlies countless aspects of our lives. Land for the Many challenges our conceptions of how land should be owned, developed, managed and used to tackle issues ranging from house prices and inequality to farming and biodiversity.
 
 The report makes concrete proposals that centre transparency, housing stability, public luxury, sustainability, commons, and community. It hits both the common sense (a transparent land registry) and paradigm shifts (Community Land Trusts). Whether you agree with every proposal, this is a can of worms that needed to be opened.
 
