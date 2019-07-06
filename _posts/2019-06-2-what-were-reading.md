@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Utopia Dispatch is Reading - May 2019"
+title:  "What UD is Reading - May 2019"
 subtitle: "A dangerous president, 21st Century welfare, and utopian degrowth"
 date:   2019-05-31 00:00:00 -0000
 background: '/img/posts/2019-05-31-what-were-reading.jpg'
