@@ -24,6 +24,6 @@ If you listen to cheerleaders of modern progress, you're likely to hear about ho
 
 Unfortunately, when it comes to wealth there _has_ been a global increase, but it turns out that the facts aren't as solid as they seem when you start to dig in to the numbers around extreme poverty. Karma's article is a good example of how being selective with data and calculations can mask reality, and that ultimately facts are only as good as the values that underpin them.
 
-If something sounds too good to be true, then it probably is. Especially if the people telling you is defending a system of hierarchy, inequality and injustice.
+If something sounds too good to be true, then it probably is. Especially if the people telling you are defending a system of hierarchy, inequality and injustice.
 
 _Header photo by [Kirill Pershin](https://unsplash.com/@kirillpershin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/magnifying-glass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
