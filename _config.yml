@@ -3,7 +3,7 @@ email:             your-email@example.com
 description:       The podcast reimagining the future and reshaping the world.
 author:            Start Bootstrap
 baseurl:           "/"
-url:               "https://utopiadispatch.com"
+url:               "utopiadispatch.com"
 
 # Social Profiles
 twitter_username:  utopiadispatch
